@@ -1,4 +1,4 @@
-# OrbitBank: Risk Metrics & Insights
+# OrbitBank - Risk Metrics & Insights
 
 ## Project Overview:
 A financial bank wants to utilize its available loan lending data to analyze and gain insights for financial planning. These insights from loan data provide key information for making decisions on future lending strategies, managing risks, and improving loan recovery processes. Leveraging datasets on client profiles, banking relationships, investment details, and demographic information, this project involves cleaning and preparing the data using Excel and MySQL, performing exploratory data analysis (EDA) in Python, and building interactive dashboards in Power BI. The dashboard aids in minimizing financial risk by informing data-driven lending decisions and provides a strong foundation for understanding key banking dynamics, customer behavior, and account trends ultimately supporting better strategic planning and operational efficiency.
