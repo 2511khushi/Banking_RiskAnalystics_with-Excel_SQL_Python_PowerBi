@@ -24,7 +24,7 @@ The dataset comprises multiple tables linked via primary and foreign keys, inclu
 
 These tables collectively provide a comprehensive view of client profiles, financial behaviors, and banking interactions.
 
-#### Datasets Link: 
+#### Datasets Link: https://github.com/2511khushi/Banking_RiskAnalystics_with_Excel_SQL_Python_PowerBi/tree/main/DataSet
 
 
 ## Tech Stack:
