@@ -24,6 +24,8 @@ The dataset comprises multiple tables linked via primary and foreign keys, inclu
 
 These tables collectively provide a comprehensive view of client profiles, financial behaviors, and banking interactions.
 
+#### Datasets Link: 
+
 
 ## Tech Stack:
 - **Excel**: Data validation and preliminary exploration.
@@ -54,7 +56,7 @@ Built dynamic and interactive dashboards using Power BI to visualize key metrics
 
 ## Conclusion: 
 
-#### Dashboard Link: https://github.com/2511khushi/Banking_RiskAnalystics_with-Excel_SQL_Python_PowerBi/blob/main/OrbitBank_Dashboard.pbix
+#### Dashboard Link: 
 
 The final Power BI dashboard provides deep visibility into key risk metrics and client behavior, supporting strategic decisions around loan approvals. It empowers banks to:
   - Assess loan repayment risks using client and financial metrics.
