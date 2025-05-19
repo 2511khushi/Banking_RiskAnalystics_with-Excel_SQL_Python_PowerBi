@@ -43,16 +43,10 @@ Fetched publicly available datasets in .csv format that simulated real-world ban
 #### 3. Data Cleaning & Preparation:
 
   - Reviewed and validated the datasets using Excel for data integrity.
-  - Cleaned and transformed the data using MySQL, including:
-        - Fixing data types and formatting (especially for date columns).
-        - Handling missing values, duplicates, and outliers.
-        - Joining related tables for a consolidated view of client data.
+  - Cleaned and transformed the data using MySQL, including fixing data types and formatting (especially for date columns), handling missing values, duplicates, and outliers, joining related tables for a consolidated view of client data.
 
 #### 4. Exploratory Data Analysis (EDA):
-Utilized Python (pandas, numpy, matplotlib, seaborn) to analyze trends and derive insights. Created new features such as:
-  - Engagement Days – to measure client longevity.
-  - Income Bands – to categorize clients by income level.
-  - Processing Fees – calculated for analytical use.
+Utilized Python (pandas, numpy, matplotlib, seaborn) to analyze trends and derive insights. Created new features such as Engagement Days – to measure client longevity, Income Bands – to categorize clients by income level, Processing Fees – calculated for analytical use.
 
 #### 5. Data Visualization:
 Built dynamic and interactive dashboards using Power BI to visualize key metrics and trends. The dashboards included slicers and filters such as gender, banking relationship type, and joining year, helping stakeholders explore data related to loan activity, client engagement, and deposit patterns.
