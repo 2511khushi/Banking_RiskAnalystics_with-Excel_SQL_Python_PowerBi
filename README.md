@@ -54,7 +54,7 @@ Built dynamic and interactive dashboards using Power BI to visualize key metrics
 
 ## Conclusion: 
 
-#### Dashboard Link: 
+#### Dashboard Link: https://github.com/2511khushi/Banking_RiskAnalystics_with-Excel_SQL_Python_PowerBi/blob/main/OrbitBank_Dashboard.pbix
 
 The final Power BI dashboard provides deep visibility into key risk metrics and client behavior, supporting strategic decisions around loan approvals. It empowers banks to:
   - Assess loan repayment risks using client and financial metrics.
